@@ -1,0 +1,11 @@
+{
+  "name": "Tuesday Assesslink KNP",
+  "description": "Industrial Attachment Management \u0026 Assessment System for TVET/vocational institutions.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
